@@ -1,0 +1,59 @@
+.subscription_comparison_table {
+    width: 100%;
+    margin: 20px 0;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.subscription_comparison_card {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    transition: all ease .25s;
+    overflow: hidden;
+    padding-bottom: 70px;
+    position: relative;
+}
+
+.subscription_comparison_card:hover {
+    transform: scale(1.025);
+}
+
+.subscription_comparison_card-header {
+    padding: 20px;
+    background-color: var(--ast-global-color-0);
+    text-align: center;
+}
+
+.subscription_comparison_card-header h3 {
+    color: white;
+    margin: 0;
+}
+
+.subscription_comparison_card-body {
+    padding: 20px;
+}
+
+.subscription_comparison_card-price {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: var(--ast-global-color-0);
+}
+
+.subscription_comparison_card-button {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    text-align: center;
+}
+
+.subscription_comparison_card-button a.button {
+    text-decoration: none;
+}

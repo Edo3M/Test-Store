@@ -1,0 +1,10 @@
+2024-06-18T04:21:19+00:00 NOTICE 3.1.0 - No subscription webhooks found using API version 3. No updates needed. CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE 7.2.0 upgrade complete from Subscriptions v0 while WooCommerce WC_VERSION 8.9.3 and database version 8.9.3 was active. CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE Environment info: CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE     WordPress Version : 6.5.4 CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE Active Plugins: CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE     Code Snippets by Code Snippets Pro – 3.6.5.1 CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE     WooCommerce Pricing Table by Total-Soft – 1.0.9 CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE     WooCommerce Stripe Gateway by WooCommerce – 8.4.0 CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE     WooCommerce Subscriptions by WooCommerce – 6.4.0 CONTEXT: {"_legacy":true}
+2024-06-18T04:21:19+00:00 NOTICE     WooCommerce by Automattic – 8.9.3 CONTEXT: {"_legacy":true}
